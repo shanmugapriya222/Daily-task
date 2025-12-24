@@ -1,4 +1,4 @@
-n=int(input())
+n=12345
 r = 0
 while n>0:
     s = n%10
